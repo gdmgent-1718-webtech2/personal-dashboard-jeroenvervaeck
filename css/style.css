@@ -1,0 +1,86 @@
+body{
+    color: gray;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+html{
+    background-color: whitesmoke;
+}
+
+img{
+    width: 150px;
+    height: 150px;
+    border-radius: 100px;
+    padding: 20px;
+}
+
+.info{
+    background-color: gold;
+    width: 25%;
+    text-align: center;
+    padding-bottom: 5px;
+    border-bottom: solid;
+}
+
+h1, h2{
+    font-size: 20px;
+}
+
+.weer{
+    background-color: lightcyan;
+    padding-top: 5px;
+    width: 20%;
+    text-align: center;
+    padding-bottom: 5px;
+    border-bottom: solid;
+    margin-top: 10px;
+}
+.nieuws{
+    background-color: lightpink;
+    padding-top: 5px;
+    width: 50%;
+    text-align: center;
+    padding-bottom: 10px;
+    border-bottom: solid;
+    margin-top: 10px;
+    padding-right: 20px;
+    padding-left: 20px;
+}
+
+.quote{
+    background-color: lightyellow;
+    padding-top: 5px;
+    width: 30%;
+    text-align: center;
+    padding-bottom: 5px;
+    border-bottom: solid;
+    margin-top: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.joke{
+    background-color: lightskyblue;
+    padding-top: 5px;
+    width: 40%;
+    text-align: center;
+    padding-bottom: 5px;
+    border-bottom: solid;
+    margin-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.dog{
+    background-color: orange;
+    padding-top: 5px;
+    width: 30%;
+    text-align: center;
+    padding-bottom: 5px;
+    border-bottom: solid;
+    margin-top: 10px;
+}
+
+.center{
+    margin: auto;
+}
